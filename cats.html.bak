@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <title>Cats!</title>
+  
+  
+<body>
+
+<img src="/newcat/cat12.jpg" >
+<img src="/newcat/cat21.jpg" >
+<img src="/newcat/cat32.jpg" >
+<img src="/newcat/cat45.jpg" >
+</body>
+</html>
